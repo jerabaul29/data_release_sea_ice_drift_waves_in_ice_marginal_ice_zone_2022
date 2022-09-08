@@ -1,0 +1,1 @@
+These data have been acquired during the "Fram 2020" expedition, by Yngve Kristoffersen et. al. See the attached final report, that was downloaded from https://fram2020.no/ on September 2021, for more information about the deployment. There were a total of 6 waves in ice instrument v2018.

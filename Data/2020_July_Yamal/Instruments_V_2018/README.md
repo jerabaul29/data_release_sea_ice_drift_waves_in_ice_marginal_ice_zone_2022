@@ -1,0 +1,10 @@
+These are the data collected using the instruments v2018: Rabault, Jean, et al. "An open source, versatile, affordable waves in ice instrument for scientific measurements in the Polar Regions." Cold Regions Science and Technology 170 (2020): 102955.
+
+As a user, it should be sufficient to use the code in steps 3 and 4, the code for steps 1 and 2 is provided only for exhaustivity.
+
+Content of the folder (this is also the order in which the data should be added / the scripts should be run):
+
+- 1 ```data_from_rock7```: the data from the different rockblock iridium modems. Note that the names are the rock7 IDs, not the iridium IDs. Obtained from https://rockblock.rock7.com -> messages -> grabbing for each instrument. These are "the most amount of data available".
+- 2 ```generate_dict_data```: the script for converting the csv data in ```data_from_rock7``` into some python dicts that can be used further. Simply need to run ```python3 script_load_messages.py```. May need to update paths and list of rock7 ids for your local machine. The corresponding dict contains all the data extracted: this is also "most amount of data available".
+- 3 ```generate_figures```: the place where figures can be generated. The ```script_show_status``` will 1) show battery level evolution 2) show trajectories 3) prints in serial the time UTC and position. If you use python, we recommend that you use this code as a starting point for using our data. the ```script_show_Hs_Tp.py``` will show the wave data, both scalar statistics and the spectra. At this level of data, you can also access cross spectra density between the different axis of the IMU, which are not made available as netCDF files.
+- 4 ```generate_nc_dataset```: the scripts for generating a nc dataset (the one that gets a final doi), checking it, and plotting information. This contains the data about 1) GPS time of fix and position, 2) Hs, Tp, Tz0 3) vertical wave spectrum. This is a bit less data (i.e., only the well validated data) compared with the previous step.
