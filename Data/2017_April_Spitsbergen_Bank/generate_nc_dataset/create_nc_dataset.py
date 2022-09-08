@@ -74,7 +74,7 @@ with nc4.Dataset(output_file, "w", format="NETCDF4") as nc4_out:
 
     nc4_out.summary = \
         "The sea ice drifter trajectories from the 2017 Spitsbergen banks deployment by Turnbull et. al., generated with the code at: " +\
-        "https://github.com/jerabaul29/data_release_waves_in_ice_2018_2021/tree/main/Data/2017_April_Spitsbergen_Bank . " +\
+        "https://github.com/jerabaul29/data_release_sea_ice_drift_waves_in_ice_marginal_ice_zone_2022/tree/master/Data/2017_April_Spitsbergen_Bank . " +\
         "More data may be available at this address than in this nc file. " +\
         "Please discuss any question / issue about the present data inside the issue tracker of the github repository."
 

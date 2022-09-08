@@ -16,3 +16,5 @@ In case of questions, please use the issue tracker of this repository to discuss
 
 We will periodically release extensions to this dataset. If you have some data you may want to release, consider contacting us to join our next data release paper, and / or index your open data at https://github.com/jerabaul29/meta_overview_sea_ice_available_data to help make it easy to find :) .
 
+The name of this repository reflects the fact that: i) we focus on sea ice drift and waves in ice in the marginal ice zone, ii) the data release preparation work took place in 2022.
+
