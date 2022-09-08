@@ -1,0 +1,1 @@
+Deployment of both instruments v2018 and Sofar Spotter in the Antarctic around the Davis research station. The data have been used in Experimental evidence for a universal threshold characterizing wave-induced sea ice break-up, Voermans et al, The Cryosphere 2020, https://tc.copernicus.org/articles/14/4265/2020/tc-14-4265-2020.pdf . See the manuscript there for more information.
