@@ -1,0 +1,1 @@
+Deployment in the Laptev sea by Takehiko Nose et. al. Both an instrument v2021 and a Sofar Spotter were deployed on the edge of the marginal ice zone. For more information, see: XX: put link to paper when published.
