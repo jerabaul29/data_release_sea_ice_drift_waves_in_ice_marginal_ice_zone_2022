@@ -1,0 +1,3 @@
+- to generate the dict of data, use the ```script_all_messages_to_dict.py```
+- to plot the drift, use the ```script_plot_trajectories.py```
+- to plot the spectra, use the ```script_plot_spectra.py```
