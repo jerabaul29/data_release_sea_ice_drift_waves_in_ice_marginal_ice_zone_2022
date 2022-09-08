@@ -1,0 +1,57 @@
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:51:50_VN100.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:51:50_VN100.pkl
+time data '7 -0.9438080191612244 -0.7' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:49:11_VN100.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:49:11_VN100.pkl
+time data '63 -0.9476606249809265 -0.' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:39:44_VN100.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:39:44_VN100.pkl
+time data '06 -0.9395048022270203 -0.' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-26-09:10:11_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-26-09:10:11_gauge.pkl
+time data '37.789474 24515 1102484461' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:51:50_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:51:50_gauge.pkl
+time data '15.141042 709 23420 576 11' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:47:00_VN100.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:47:00_VN100.pkl
+time data '2 -0.9440456628799438 -0.7' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:49:11_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:49:11_gauge.pkl
+time data '02.669911 1771 50262 578 2' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:53:26_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:53:26_gauge.pkl
+time data '29.281153 145 7320 765 361' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:39:44_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:39:44_gauge.pkl
+time data '45.924041 14266 300149 224' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-14:53:45_VN100.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-14:53:45_VN100.pkl
+time data '702 -0.12755301594734192 0' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-14:59:20_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-14:59:20_gauge.pkl
+time data '54.934244 911 259198 1023 ' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:52:40_VN100.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:52:40_VN100.pkl
+time data '07 -0.9496869444847107 -0.' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:51:26_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:51:26_gauge.pkl
+time data '45.463083 943 23280 575 11' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-14:53:45_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-14:53:45_gauge.pkl
+time data '53.095370 2606 217676 165 ' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-26-09:10:11_VN100.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-26-09:10:11_VN100.pkl
+time data '29 -0.17001451551914215 0.' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:47:00_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:47:00_gauge.pkl
+time data '06.837914 5517 125170 1023' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-09:52:40_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-09:52:40_gauge.pkl
+time data '13.008744 1113 31820 769 1' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-14:59:20_VN100.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-14:59:20_VN100.pkl
+time data '355 -0.16753095388412476 0' does not match format '%Y-%m-%d-%H:%M:%S.%f'
+------------------------------
+in: /home/jrmet/Desktop/Data/bow_sensor/UGauge/2021-02-13-14:43:11_gauge.csv, out: /home/jrmet/Desktop/Data/bow_sensor/on_time_base/2021-02-13-14:43:11_gauge.pkl
+time data '20.908494 453 18903 1023 6' does not match format '%Y-%m-%d-%H:%M:%S.%f'
