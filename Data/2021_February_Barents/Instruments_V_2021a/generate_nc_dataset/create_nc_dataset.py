@@ -165,6 +165,9 @@ with nc4.Dataset(output_file, "w", format="NETCDF4") as nc4_out:
 
     # operational status: https://htmlpreview.github.io/?https://github.com/metno/mmd/blob/master/doc/mmd-specification.html#operational-status
     nc4_out.operational_status = "Scientific"
+    
+    # feature type:
+    nc4_out.featureType = "trajectory"
 
     # ------------------------------------------------------------
     # dimensions
