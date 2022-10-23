@@ -9,7 +9,10 @@ There is quite a lot of code repetition between the deployments. We decided to n
 If you use any of these data, please cite our paper:
 
 ```
-XX:WriteAndAdd .
+A dataset of direct observations of sea ice drift and waves in ice
+J. Rabault et. al.
+2022
+available at: https://www.researchgate.net/publication/364652443_A_dataset_of_direct_observations_of_sea_ice_drift_and_waves_in_ice .
 ```
 
 In case of questions, please use the issue tracker of this repository to discuss.
