@@ -15,6 +15,7 @@ J. Rabault et. al.
 ```
 
 - The manuscript is available at: https://www.researchgate.net/publication/364652443_A_dataset_of_direct_observations_of_sea_ice_drift_and_waves_in_ice .
+- The manuscript is also available on this repository at: https://github.com/jerabaul29/data_release_sea_ice_drift_waves_in_ice_marginal_ice_zone_2022/blob/master/article_preprint.pdf .
 - The data are also hosted as a set of netCDF-CF files following the FAIR principles at: https://doi.org/10.21343/AZKY-0X44 .
 
 In case of questions, please use the issue tracker of this repository to discuss.
