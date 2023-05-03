@@ -9,12 +9,14 @@ There is quite a lot of code repetition between the deployments. We decided to n
 If you use any of these data, please cite our paper:
 
 ```
-A dataset of direct observations of sea ice drift and waves in ice
-J. Rabault et. al.
-2022
+Rabault, J., Müller, M., Voermans, J. et al.
+A dataset of direct observations of sea ice drift and waves in ice.
+Sci Data 10, 251 (2023).
+https://doi.org/10.1038/s41597-023-02160-9
 ```
 
-- The manuscript is available at: https://www.researchgate.net/publication/364652443_A_dataset_of_direct_observations_of_sea_ice_drift_and_waves_in_ice .
+- The published paper is open access at Nature Scientific Dataset: https://www.nature.com/articles/s41597-023-02160-9 .
+- The manuscript is available on ResearchGate at: https://www.researchgate.net/publication/364652443_A_dataset_of_direct_observations_of_sea_ice_drift_and_waves_in_ice .
 - The manuscript is also available on this repository at: https://github.com/jerabaul29/data_release_sea_ice_drift_waves_in_ice_marginal_ice_zone_2022/blob/master/article_preprint.pdf .
 - The data are also hosted as a set of netCDF-CF files following the FAIR principles at: https://doi.org/10.21343/AZKY-0X44 .
 
